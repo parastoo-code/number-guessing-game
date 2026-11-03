@@ -41,7 +41,7 @@ while play_again=="yes":
 
     if won==True:
         if attempt==1:
-            print("Rank: Exeelent")
+            print("Rank: Excellent")
         elif attempt == 2:
             print("Rank: Very good")
         elif attempt == 3:
